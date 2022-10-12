@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554891898209",
+    "firebase_url": "https://zidallieappproj-default-rtdb.firebaseio.com",
+    "project_id": "zidallieappproj",
+    "storage_bucket": "zidallieappproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554891898209:android:d31e70675092ca437b2920",
+        "android_client_info": {
+          "package_name": "com.example.zidallieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554891898209-lrid5frlhuf15vo8juns3m4vord6lm6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoB_goiXjsZhZg_FgLBQY30eeJRTXvEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554891898209-lrid5frlhuf15vo8juns3m4vord6lm6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
